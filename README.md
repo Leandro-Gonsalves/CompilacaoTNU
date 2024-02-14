@@ -1,2 +1,2 @@
 # CompilacaoTNU
-Principais julgados da TNU_Atualizacao ate setembro/2023
+Principais julgados da TNU_Atualizacao ate Fevereiro/2024
